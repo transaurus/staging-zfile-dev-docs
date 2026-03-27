@@ -1,0 +1,386 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.快速安装（必看）": {
+    "message": "快速安装（必看）",
+    "description": "The label for category 快速安装（必看） in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.快速安装（必看）.link.generated-index.title": {
+    "message": "快速安装",
+    "description": "The generated-index page title for category 快速安装（必看） in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.快速安装（必看）.link.generated-index.description": {
+    "message": "请选择安装方式",
+    "description": "The generated-index page description for category 快速安装（必看） in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.手动安装-开源版": {
+    "message": "手动安装-开源版",
+    "description": "The label for category 手动安装-开源版 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.手动安装-开源版.link.generated-index.title": {
+    "message": "开源版部署教程",
+    "description": "The generated-index page title for category 手动安装-开源版 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.手动安装-开源版.link.generated-index.description": {
+    "message": "点击查看不同环境下的部署教程",
+    "description": "The generated-index page description for category 手动安装-开源版 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.手动安装-捐赠版": {
+    "message": "手动安装-捐赠版",
+    "description": "The label for category 手动安装-捐赠版 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.手动安装-捐赠版.link.generated-index.title": {
+    "message": "捐赠版部署教程",
+    "description": "The generated-index page title for category 手动安装-捐赠版 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.手动安装-捐赠版.link.generated-index.description": {
+    "message": "点击查看不同环境下的部署教程",
+    "description": "The generated-index page description for category 手动安装-捐赠版 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.功能介绍": {
+    "message": "功能介绍",
+    "description": "The label for category 功能介绍 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.配置文件": {
+    "message": "配置文件",
+    "description": "The label for category 配置文件 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.高级功能": {
+    "message": "高级功能",
+    "description": "The label for category 高级功能 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.常见问题": {
+    "message": "常见问题",
+    "description": "The label for category 常见问题 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.存储源示例配置🔥": {
+    "message": "存储源示例配置🔥",
+    "description": "The label for category 存储源示例配置🔥 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.存储源示例配置🔥.link.generated-index.description": {
+    "message": "如果你不知道怎么配置存储源，可以点击下方你想添加的存储类型查看详细文档",
+    "description": "The generated-index page description for category 存储源示例配置🔥 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.自定义 JS 示例": {
+    "message": "自定义 JS 示例",
+    "description": "The label for category 自定义 JS 示例 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.自定义 JS 示例.link.generated-index.title": {
+    "message": "自定义 JS 相关示例",
+    "description": "The generated-index page title for category 自定义 JS 示例 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.自定义 JS 示例.link.generated-index.description": {
+    "message": "点击下方查看不同版本的更新日志",
+    "description": "The generated-index page description for category 自定义 JS 示例 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.更新日志": {
+    "message": "更新日志",
+    "description": "The label for category 更新日志 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.更新日志.link.generated-index.title": {
+    "message": "更新日志",
+    "description": "The generated-index page title for category 更新日志 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.更新日志.link.generated-index.description": {
+    "message": "点击下方查看不同版本的更新日志",
+    "description": "The generated-index page description for category 更新日志 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.doc.一键安装脚本": {
+    "message": "一键安装脚本",
+    "description": "The label for the doc item 一键安装脚本 in sidebar docsSidebar, linking to the doc install/script-install"
+  },
+  "sidebar.docsSidebar.doc.Linux": {
+    "message": "Linux",
+    "description": "The label for the doc item Linux in sidebar docsSidebar, linking to the doc install/pro-linux"
+  },
+  "sidebar.docsSidebar.doc.Windows": {
+    "message": "Windows",
+    "description": "The label for the doc item Windows in sidebar docsSidebar, linking to the doc install/pro-windows"
+  },
+  "sidebar.docsSidebar.doc.Docker": {
+    "message": "Docker",
+    "description": "The label for the doc item Docker in sidebar docsSidebar, linking to the doc install/pro-docker"
+  },
+  "sidebar.docsSidebar.doc.宝塔Docker应用商店": {
+    "message": "宝塔Docker应用商店",
+    "description": "The label for the doc item 宝塔Docker应用商店 in sidebar docsSidebar, linking to the doc install/os-baota-new"
+  },
+  "sidebar.docsSidebar.doc.宝塔传统方式": {
+    "message": "宝塔传统方式",
+    "description": "The label for the doc item 宝塔传统方式 in sidebar docsSidebar, linking to the doc install/os-baota"
+  },
+  "sidebar.docsSidebar.doc.1Panel应用商店": {
+    "message": "1Panel应用商店",
+    "description": "The label for the doc item 1Panel应用商店 in sidebar docsSidebar, linking to the doc install/os-1panel"
+  },
+  "sidebar.docsSidebar.doc.群辉 Synology": {
+    "message": "群辉 Synology",
+    "description": "The label for the doc item 群辉 Synology in sidebar docsSidebar, linking to the doc install/pro-dsm-docker"
+  },
+  "sidebar.docsSidebar.doc.宝塔": {
+    "message": "宝塔",
+    "description": "The label for the doc item 宝塔 in sidebar docsSidebar, linking to the doc install/pro-baota"
+  },
+  "sidebar.docsSidebar.doc.帮我安装": {
+    "message": "帮我安装",
+    "description": "The label for the doc item 帮我安装 in sidebar docsSidebar, linking to the doc support/support"
+  },
+  "sidebar.docsSidebar.doc.文件夹密码/加密": {
+    "message": "文件夹密码/加密",
+    "description": "The label for the doc item 文件夹密码/加密 in sidebar docsSidebar, linking to the doc feature/pwd-folder"
+  },
+  "sidebar.docsSidebar.doc.文件夹文档": {
+    "message": "文件夹文档",
+    "description": "The label for the doc item 文件夹文档 in sidebar docsSidebar, linking to the doc feature/md-folder"
+  },
+  "sidebar.docsSidebar.doc.隐藏文件/文件夹": {
+    "message": "隐藏文件/文件夹",
+    "description": "The label for the doc item 隐藏文件/文件夹 in sidebar docsSidebar, linking to the doc feature/hidden-file"
+  },
+  "sidebar.docsSidebar.doc.视频播放": {
+    "message": "视频播放",
+    "description": "The label for the doc item 视频播放 in sidebar docsSidebar, linking to the doc feature/video"
+  },
+  "sidebar.docsSidebar.doc.文本预览": {
+    "message": "文本预览",
+    "description": "The label for the doc item 文本预览 in sidebar docsSidebar, linking to the doc feature/text"
+  },
+  "sidebar.docsSidebar.doc.音频播放": {
+    "message": "音频播放",
+    "description": "The label for the doc item 音频播放 in sidebar docsSidebar, linking to the doc feature/music"
+  },
+  "sidebar.docsSidebar.doc.PDF 预览": {
+    "message": "PDF 预览",
+    "description": "The label for the doc item PDF 预览 in sidebar docsSidebar, linking to the doc feature/pdf"
+  },
+  "sidebar.docsSidebar.doc.office 预览": {
+    "message": "office 预览",
+    "description": "The label for the doc item office 预览 in sidebar docsSidebar, linking to the doc feature/office"
+  },
+  "sidebar.docsSidebar.doc.系统日志": {
+    "message": "系统日志",
+    "description": "The label for the doc item 系统日志 in sidebar docsSidebar, linking to the doc feature/log"
+  },
+  "sidebar.docsSidebar.doc.配置文件路径（必看）": {
+    "message": "配置文件路径（必看）",
+    "description": "The label for the doc item 配置文件路径（必看） in sidebar docsSidebar, linking to the doc config/config-path"
+  },
+  "sidebar.docsSidebar.doc.启动端口": {
+    "message": "启动端口",
+    "description": "The label for the doc item 启动端口 in sidebar docsSidebar, linking to the doc config/config-port"
+  },
+  "sidebar.docsSidebar.doc.数据库配置": {
+    "message": "数据库配置",
+    "description": "The label for the doc item 数据库配置 in sidebar docsSidebar, linking to the doc config/config-db"
+  },
+  "sidebar.docsSidebar.doc.Debug 模式": {
+    "message": "Debug 模式",
+    "description": "The label for the doc item Debug 模式 in sidebar docsSidebar, linking to the doc config/config-debug"
+  },
+  "sidebar.docsSidebar.doc.OneDrive CF Worker 加速": {
+    "message": "OneDrive CF Worker 加速",
+    "description": "The label for the doc item OneDrive CF Worker 加速 in sidebar docsSidebar, linking to the doc advanced/cf-worker"
+  },
+  "sidebar.docsSidebar.doc.自建 Google Drive API": {
+    "message": "自建 Google Drive API",
+    "description": "The label for the doc item 自建 Google Drive API in sidebar docsSidebar, linking to the doc advanced/google-drive-api"
+  },
+  "sidebar.docsSidebar.doc.自建 OneDrive API": {
+    "message": "自建 OneDrive API",
+    "description": "The label for the doc item 自建 OneDrive API in sidebar docsSidebar, linking to the doc advanced/onedrive-api"
+  },
+  "sidebar.docsSidebar.doc.自建 OnlyOffice": {
+    "message": "自建 OnlyOffice",
+    "description": "The label for the doc item 自建 OnlyOffice in sidebar docsSidebar, linking to the doc advanced/only-office"
+  },
+  "sidebar.docsSidebar.doc.如何配置开机自启(systemd)？": {
+    "message": "如何配置开机自启(systemd)？",
+    "description": "The label for the doc item 如何配置开机自启(systemd)？ in sidebar docsSidebar, linking to the doc question/systemd-config"
+  },
+  "sidebar.docsSidebar.doc.如何备份/迁移程序数据？": {
+    "message": "如何备份/迁移程序数据？",
+    "description": "The label for the doc item 如何备份/迁移程序数据？ in sidebar docsSidebar, linking to the doc question/backup"
+  },
+  "sidebar.docsSidebar.doc.如何用域名访问？": {
+    "message": "如何用域名访问？",
+    "description": "The label for the doc item 如何用域名访问？ in sidebar docsSidebar, linking to the doc question/bind-domain"
+  },
+  "sidebar.docsSidebar.doc.启动失败/无法访问怎么办？": {
+    "message": "启动失败/无法访问怎么办？",
+    "description": "The label for the doc item 启动失败/无法访问怎么办？ in sidebar docsSidebar, linking to the doc question/start-fail"
+  },
+  "sidebar.docsSidebar.doc.如何修改配置文件？": {
+    "message": "如何修改配置文件？",
+    "description": "The label for the doc item 如何修改配置文件？ in sidebar docsSidebar, linking to the doc question/update-config-file"
+  },
+  "sidebar.docsSidebar.doc.如何运行多个 ZFile 实例？": {
+    "message": "如何运行多个 ZFile 实例？",
+    "description": "The label for the doc item 如何运行多个 ZFile 实例？ in sidebar docsSidebar, linking to the doc question/run-multiple-instance"
+  },
+  "sidebar.docsSidebar.doc.使用 Nginx 反向代理后，下载 1G 以上文件失败?": {
+    "message": "使用 Nginx 反向代理后，下载 1G 以上文件失败?",
+    "description": "The label for the doc item 使用 Nginx 反向代理后，下载 1G 以上文件失败? in sidebar docsSidebar, linking to the doc question/nginx-1g-download-fail"
+  },
+  "sidebar.docsSidebar.doc.为什么我启用了 https，但直链下载会被重定向到 http?": {
+    "message": "为什么我启用了 https，但直链下载会被重定向到 http?",
+    "description": "The label for the doc item 为什么我启用了 https，但直链下载会被重定向到 http? in sidebar docsSidebar, linking to the doc question/nginx-proxy-config"
+  },
+  "sidebar.docsSidebar.doc.为什么我通过域名访问的项目，但重定向到了项目内网地址？": {
+    "message": "为什么我通过域名访问的项目，但重定向到了项目内网地址？",
+    "description": "The label for the doc item 为什么我通过域名访问的项目，但重定向到了项目内网地址？ in sidebar docsSidebar, linking to the doc question/nginx-proxy-config"
+  },
+  "sidebar.docsSidebar.doc.为什么我启用了 https，但直链下载浏览器提示\"此网站使用的不是安全链接，该文件可能已被篡改\"": {
+    "message": "为什么我启用了 https，但直链下载浏览器提示\"此网站使用的不是安全链接，该文件可能已被篡改\"",
+    "description": "The label for the doc item 为什么我启用了 https，但直链下载浏览器提示\"此网站使用的不是安全链接，该文件可能已被篡改\" in sidebar docsSidebar, linking to the doc question/nginx-proxy-config"
+  },
+  "sidebar.docsSidebar.doc.OnlyOffice 预览失败怎么办？": {
+    "message": "OnlyOffice 预览失败怎么办？",
+    "description": "The label for the doc item OnlyOffice 预览失败怎么办？ in sidebar docsSidebar, linking to the doc question/only-office-download-fail"
+  },
+  "sidebar.docsSidebar.doc.Ubuntu 登录页报错": {
+    "message": "Ubuntu 登录页报错",
+    "description": "The label for the doc item Ubuntu 登录页报错 in sidebar docsSidebar, linking to the doc question/ubuntu-awt"
+  },
+  "sidebar.docsSidebar.doc.忘记管理员密码怎么办？": {
+    "message": "忘记管理员密码怎么办？",
+    "description": "The label for the doc item 忘记管理员密码怎么办？ in sidebar docsSidebar, linking to the doc question/reset-password"
+  },
+  "sidebar.docsSidebar.doc.忘记登录安全入口怎么办？": {
+    "message": "忘记登录安全入口怎么办？",
+    "description": "The label for the doc item 忘记登录安全入口怎么办？ in sidebar docsSidebar, linking to the doc question/forget-secure-login-entry"
+  },
+  "sidebar.docsSidebar.doc.查看 ZFile 版本": {
+    "message": "查看 ZFile 版本",
+    "description": "The label for the doc item 查看 ZFile 版本 in sidebar docsSidebar, linking to the doc question/cat-current-version"
+  },
+  "sidebar.docsSidebar.doc.上传失败怎么办？": {
+    "message": "上传失败怎么办？",
+    "description": "The label for the doc item 上传失败怎么办？ in sidebar docsSidebar, linking to the doc question/upload-fail"
+  },
+  "sidebar.docsSidebar.doc.文件名乱码如何处理？": {
+    "message": "文件名乱码如何处理？",
+    "description": "The label for the doc item 文件名乱码如何处理？ in sidebar docsSidebar, linking to the doc question/garbled"
+  },
+  "sidebar.docsSidebar.doc.如何前后端分离部署？": {
+    "message": "如何前后端分离部署？",
+    "description": "The label for the doc item 如何前后端分离部署？ in sidebar docsSidebar, linking to the doc question/separation-of-front-end-and-backend"
+  },
+  "sidebar.docsSidebar.doc.如何查看/下载日志？": {
+    "message": "如何查看/下载日志？",
+    "description": "The label for the doc item 如何查看/下载日志？ in sidebar docsSidebar, linking to the doc question/download-log"
+  },
+  "sidebar.docsSidebar.doc.如何修改左上角 favicon 图标？": {
+    "message": "如何修改左上角 favicon 图标？",
+    "description": "The label for the doc item 如何修改左上角 favicon 图标？ in sidebar docsSidebar, linking to the doc question/modify-favicon"
+  },
+  "sidebar.docsSidebar.doc.为什么我使用 Cloudflare 后页面白屏无法访问？": {
+    "message": "为什么我使用 Cloudflare 后页面白屏无法访问？",
+    "description": "The label for the doc item 为什么我使用 Cloudflare 后页面白屏无法访问？ in sidebar docsSidebar, linking to the doc question/cf-not-work"
+  },
+  "sidebar.docsSidebar.doc.如何去除版权信息？": {
+    "message": "如何去除版权信息？",
+    "description": "The label for the doc item 如何去除版权信息？ in sidebar docsSidebar, linking to the doc question/remove-copyright"
+  },
+  "sidebar.docsSidebar.doc.存储源类型对比": {
+    "message": "存储源类型对比",
+    "description": "The label for the doc item 存储源类型对比 in sidebar docsSidebar, linking to the doc storage-type"
+  },
+  "sidebar.docsSidebar.doc.阿里云 OSS": {
+    "message": "阿里云 OSS",
+    "description": "The label for the doc item 阿里云 OSS in sidebar docsSidebar, linking to the doc example/oss"
+  },
+  "sidebar.docsSidebar.doc.腾讯云 COS": {
+    "message": "腾讯云 COS",
+    "description": "The label for the doc item 腾讯云 COS in sidebar docsSidebar, linking to the doc example/cos"
+  },
+  "sidebar.docsSidebar.doc.华为云 OBS": {
+    "message": "华为云 OBS",
+    "description": "The label for the doc item 华为云 OBS in sidebar docsSidebar, linking to the doc example/obs"
+  },
+  "sidebar.docsSidebar.doc.又拍云": {
+    "message": "又拍云",
+    "description": "The label for the doc item 又拍云 in sidebar docsSidebar, linking to the doc example/upyun"
+  },
+  "sidebar.docsSidebar.doc.七牛云": {
+    "message": "七牛云",
+    "description": "The label for the doc item 七牛云 in sidebar docsSidebar, linking to the doc example/qiniu"
+  },
+  "sidebar.docsSidebar.doc.MINIO": {
+    "message": "MINIO",
+    "description": "The label for the doc item MINIO in sidebar docsSidebar, linking to the doc example/minio"
+  },
+  "sidebar.docsSidebar.doc.Rain S3 雨云存储": {
+    "message": "Rain S3 雨云存储",
+    "description": "The label for the doc item Rain S3 雨云存储 in sidebar docsSidebar, linking to the doc example/rains3"
+  },
+  "sidebar.docsSidebar.doc.DigitalOcean Spaces": {
+    "message": "DigitalOcean Spaces",
+    "description": "The label for the doc item DigitalOcean Spaces in sidebar docsSidebar, linking to the doc example/digitalocean"
+  },
+  "sidebar.docsSidebar.doc.Cloudflare R2": {
+    "message": "Cloudflare R2",
+    "description": "The label for the doc item Cloudflare R2 in sidebar docsSidebar, linking to the doc example/r2"
+  },
+  "sidebar.docsSidebar.doc.Oracle 对象存储": {
+    "message": "Oracle 对象存储",
+    "description": "The label for the doc item Oracle 对象存储 in sidebar docsSidebar, linking to the doc example/oracle"
+  },
+  "sidebar.docsSidebar.doc.Backblaze（b2）": {
+    "message": "Backblaze（b2）",
+    "description": "The label for the doc item Backblaze（b2） in sidebar docsSidebar, linking to the doc example/b2"
+  },
+  "sidebar.docsSidebar.doc.S3 或其他兼容 S3 的服务": {
+    "message": "S3 或其他兼容 S3 的服务",
+    "description": "The label for the doc item S3 或其他兼容 S3 的服务 in sidebar docsSidebar, linking to the doc example/s3"
+  },
+  "sidebar.docsSidebar.doc.OneDrive": {
+    "message": "OneDrive",
+    "description": "The label for the doc item OneDrive in sidebar docsSidebar, linking to the doc example/onedrive"
+  },
+  "sidebar.docsSidebar.doc.OneDrive (世纪互联)": {
+    "message": "OneDrive (世纪互联)",
+    "description": "The label for the doc item OneDrive (世纪互联) in sidebar docsSidebar, linking to the doc example/onedrive-china"
+  },
+  "sidebar.docsSidebar.doc.SharePoint": {
+    "message": "SharePoint",
+    "description": "The label for the doc item SharePoint in sidebar docsSidebar, linking to the doc example/sharepoint"
+  },
+  "sidebar.docsSidebar.doc.SharePoint (世纪互联)": {
+    "message": "SharePoint (世纪互联)",
+    "description": "The label for the doc item SharePoint (世纪互联) in sidebar docsSidebar, linking to the doc example/sharepoint-china"
+  },
+  "sidebar.docsSidebar.doc.FTP": {
+    "message": "FTP",
+    "description": "The label for the doc item FTP in sidebar docsSidebar, linking to the doc example/ftp"
+  },
+  "sidebar.docsSidebar.doc.SFTP": {
+    "message": "SFTP",
+    "description": "The label for the doc item SFTP in sidebar docsSidebar, linking to the doc example/sftp"
+  },
+  "sidebar.docsSidebar.doc.51LA 统计": {
+    "message": "51LA 统计",
+    "description": "The label for the doc item 51LA 统计 in sidebar docsSidebar, linking to the doc custom-js/51la"
+  },
+  "sidebar.docsSidebar.doc.百度统计": {
+    "message": "百度统计",
+    "description": "The label for the doc item 百度统计 in sidebar docsSidebar, linking to the doc custom-js/baidu-tongji"
+  },
+  "sidebar.docsSidebar.doc.开源版": {
+    "message": "开源版",
+    "description": "The label for the doc item 开源版 in sidebar docsSidebar, linking to the doc changelog/os"
+  },
+  "sidebar.docsSidebar.doc.捐赠版": {
+    "message": "捐赠版",
+    "description": "The label for the doc item 捐赠版 in sidebar docsSidebar, linking to the doc changelog/pro"
+  },
+  "sidebar.docsSidebar.doc.服务器推荐✨": {
+    "message": "服务器推荐✨",
+    "description": "The label for the doc item 服务器推荐✨ in sidebar docsSidebar, linking to the doc ad/ad"
+  },
+  "sidebar.docsSidebar.doc.技术支持": {
+    "message": "技术支持",
+    "description": "The label for the doc item 技术支持 in sidebar docsSidebar, linking to the doc support/support"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": {
+    "message": "ZFile",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "ZFile",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.官网": {
+    "message": "官网",
+    "description": "Navbar item with label 官网"
+  },
+  "item.label.演示站": {
+    "message": "演示站",
+    "description": "Navbar item with label 演示站"
+  },
+  "item.label.QQ 交流群": {
+    "message": "QQ 交流群",
+    "description": "Navbar item with label QQ 交流群"
+  },
+  "item.label.服务器推荐✨": {
+    "message": "服务器推荐✨",
+    "description": "Navbar item with label 服务器推荐✨"
+  },
+  "item.label.我要提 BUG": {
+    "message": "我要提 BUG",
+    "description": "Navbar item with label 我要提 BUG"
+  },
+  "item.label.技术支持": {
+    "message": "技术支持",
+    "description": "Navbar item with label 技术支持"
+  },
+  "item.label.QQ 交流群(1群已满)": {
+    "message": "QQ 交流群(1群已满)",
+    "description": "Navbar item with label QQ 交流群(1群已满)"
+  },
+  "item.label.QQ 交流群(2群)": {
+    "message": "QQ 交流群(2群)",
+    "description": "Navbar item with label QQ 交流群(2群)"
+  },
+  "item.label.捐赠版交流群(授权后台查看)": {
+    "message": "捐赠版交流群(授权后台查看)",
+    "description": "Navbar item with label 捐赠版交流群(授权后台查看)"
+  }
+}
