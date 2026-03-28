@@ -10,14 +10,14 @@ const config = {
     tagline: 'ZFile 在线云盘文档',
     url: 'https://docs.zfile.vip',
     baseUrl: '/',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'zfile-dev', // Usually your GitHub org/user name.
     projectName: 'zfile', // Usually your repo name.
     i18n: {
         defaultLocale: "zh-Hans",
-        locales: ["zh-Hans"],
+        locales: ["en", "zh-Hans"],
     },
     scripts: [{
         src: '/script/script.js', async: true,
